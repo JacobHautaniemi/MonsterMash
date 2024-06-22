@@ -1,0 +1,17 @@
+/* CuteMonster.css */
+
+.cute-monster {
+  position: fixed;
+  width: 100px; /* Adjust size as needed */
+  height: 100px; /* Adjust size as needed */
+}
+
+.cute-monster.bottom-left {
+  bottom: 20px;
+  left: 20px;
+}
+
+.cute-monster.bottom-right {
+  bottom: 20px;
+  right: 20px;
+}

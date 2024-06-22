@@ -1,0 +1,11 @@
+.action-buttons {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.action-buttons button {
+  padding: 10px 20px;
+  font-size: 1.2em;
+  cursor: pointer;
+}

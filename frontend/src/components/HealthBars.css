@@ -1,0 +1,19 @@
+.health-bars {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.health-bar {
+  width: 45%;
+}
+
+.label {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.bar {
+  height: 20px;
+  transition: width 0.5s;
+}
